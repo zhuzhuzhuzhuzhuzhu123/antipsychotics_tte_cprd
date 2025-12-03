@@ -30,6 +30,15 @@ This study aimed to emulate a trial on the following research question: In adult
 
 7. [Inverse probability of treatment weighting](https://github.com/Alvin-RB/antipsychotics_tte_cprd/blob/main/R%20scripts/7.%20Antipsychotics%20TTE%20-%20IPTW%20sensitivity%20analysis_github_2Jan25.R)
 
+#### Contributing / 如何贡献
+
+If you would like to contribute files or code to this repository, please see our [Contributing Guide](CONTRIBUTING.md) / 如果您想要向本仓库上传文件或代码，请参阅我们的[贡献指南](CONTRIBUTING.md)。
+
+The guide includes detailed instructions in both English and Chinese on how to upload files using:
+- GitHub web interface (easiest method)
+- Git command line
+- GitHub Desktop
+
 #### Contact
 
 If you would like any further information, then please [contact me](https://github.com/Alvin-RB).
