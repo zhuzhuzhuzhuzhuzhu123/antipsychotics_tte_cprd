@@ -30,6 +30,10 @@ This study aimed to emulate a trial on the following research question: In adult
 
 7. [Inverse probability of treatment weighting](https://github.com/Alvin-RB/antipsychotics_tte_cprd/blob/main/R%20scripts/7.%20Antipsychotics%20TTE%20-%20IPTW%20sensitivity%20analysis_github_2Jan25.R)
 
+8. [Shrinkage methods practical](https://github.com/Alvin-RB/antipsychotics_tte_cprd/blob/main/R%20scripts/8.%20Shrinkage%20Methods%20-%20Ridge%20LASSO%20Elastic%20Net.R)
+   - Ridge regression, LASSO, Elastic Net, and bootstrapping
+   - Performance metrics and model comparison
+
 #### Contact
 
 If you would like any further information, then please [contact me](https://github.com/Alvin-RB).
