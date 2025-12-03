@@ -10,6 +10,9 @@ This script demonstrates four important shrinkage methods (also known as regular
 3. **弹性网络 (Elastic Net)** - 结合L1和L2惩罚
 4. **自助法均匀收缩 (Bootstrapping)** - 基于重采样的稳健估计
 
+**注意 / Note**: 脚本使用Boston房价数据集作为演示示例，这是一个常用的教学数据集。用户可以轻松替换为自己的数据集。
+The script uses the Boston housing dataset as a demonstration example, which is a commonly used educational dataset. Users can easily substitute their own data.
+
 ## 安装要求 / Installation Requirements
 
 ### 必需的R包 / Required R Packages

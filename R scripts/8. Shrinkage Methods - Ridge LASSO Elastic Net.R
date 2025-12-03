@@ -31,6 +31,8 @@ cat("\n=== 数据准备 / Data Preparation ===\n")
 
 # 使用Boston房价数据集作为示例
 # Using Boston housing dataset as example
+# 注意：此数据集用于教学目的。用户可以使用自己的数据集替代。
+# Note: This dataset is used for educational purposes. Users can substitute with their own data.
 data(Boston)
 
 # 查看数据结构 / View data structure
